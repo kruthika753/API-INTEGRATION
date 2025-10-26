@@ -78,11 +78,11 @@ WeatherApp/
 
 ## 📷 Output Example
 
-**Input:** `London`
+**Input:** `Bengaluru`
 **Output:**
-✅ City: London, GB
-✅ Temperature: 15°C
-✅ Humidity: 72%
+✅ City: Bengaluru, IN
+✅ Temperature: 24.25°C
+✅ Humidity: 76%
 ✅ Weather: broken clouds
 
 ## 💡 Future Enhancements
@@ -94,4 +94,4 @@ WeatherApp/
 
 ##Output:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cfc4daeb-5b67-4e7c-8957-a2175196d9e3" />
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08581876-3903-4208-b37f-4a857072cedd" />
