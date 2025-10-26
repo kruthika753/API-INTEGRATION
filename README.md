@@ -91,3 +91,5 @@ WeatherApp/
 * 📍 Auto-detect user location
 * 🕒 Add current date & time
 * 🚀 Deploy on GitHub Pages or Netlify
+
+##Output:
