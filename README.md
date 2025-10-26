@@ -93,5 +93,4 @@ WeatherApp/
 * 🚀 Deploy on GitHub Pages or Netlify
 
 ##Output:
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cfc4daeb-5b67-4e7c-8957-a2175196d9e3" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08581876-3903-4208-b37f-4a857072cedd" />
+
